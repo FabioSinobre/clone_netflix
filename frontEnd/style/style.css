@@ -10,6 +10,7 @@
 body{
   background: var(--black);
   font-family: 'Times New Roman', Times, serif;
+  color: #fff;
 }
 header .conteiner{
    display: flex; /*colocou tudo na mesma linha*/
@@ -30,4 +31,31 @@ header nav a{
 }
 header nav a:hover{
     color: #fff;
+}
+/*filme principal*/
+.mainMovie{
+    font-size: 20px;
+    background: linear-gradient(rgba(169, 232, 10, 0.5), rgba(8, 49, 199, 0.5)), url("../imagens/capa.jpg");/*add uma camada fina sobre a img*/
+    height: 400px;
+    background-size: cover; /*faz a img se moldar do tamanho da caixa*/
+    display: flex;/*joga o elemento em linha*/
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+.mainMovie .description{
+    margin-bottom: 45px;
+}
+.description{
+    font-size: 20px;
+}
+.type{
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+h5{
+    font-size: 22px;
+}
+.title{
+    font-size: 35px;
 }
