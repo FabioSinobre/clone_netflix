@@ -6,3 +6,5 @@ O Bootcamp Carrefour Web Developer tem como foco principal formar profissionais 
 O desafio do módulo II é criar uma página clone da Netflix site de streaming mundial, utilizando **HTML, CSS**(utlizar conceitos de responsividade) avançado e **plugins JQuery**.
 
 Convido a todos a paraticiparem da comunidade **Dio**, **([Comunidade Dio.me](https://dio.me/sign-up?ref=NU8Q2PRFTI))** Acesse o link e participe de vários bootcamp, cursos e muito mais.
+
+!([Trabalho finalizado](frontEnd/imagens/readme-md/net01.png))
