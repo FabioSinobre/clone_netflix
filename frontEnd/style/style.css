@@ -57,6 +57,11 @@ h3{
     font-family: Beau Rivage;
     color: #f69feb;
 }
+h4{
+    font-size: 20px;
+    margin-left: 22px;
+    padding: 6px;
+}
 h5{
     font-size: 22px;
 }
@@ -85,4 +90,13 @@ h5{
 }
 .mainMovie .conteiner{
     width: 50%;
+}
+.box-movie{
+    height: 100%;
+    width: 100%;
+    display: block;
+}
+.item:hover{
+    background-color: rgba(66, 72, 36, 0.5);
+    margin: 10px;
 }
